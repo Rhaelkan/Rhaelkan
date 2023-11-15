@@ -13,6 +13,8 @@ First of all, welcome to my github profile. As you can see above, I am a Front E
 * 🤝  I'm open to collaborating on interesting projects.
 * ⚡  I love cycling and dogs.
 
+  ![](https://komarev.com/ghpvc/?username=Rhaelkan&color=blueviolet)
+
 ### Skills
 
 
