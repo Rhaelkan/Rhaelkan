@@ -8,7 +8,6 @@ IOT Software Engineer
 * ✉️  You can contact me at [hakandoruk2k@gmail.com](mailto:hakandoruk2k@gmail.com)
 * 🧠  I'm learning whatever i need.
 * 🤝  I'm open to collaborating on interesting projects.
-* ⚡  I love riding a motorcycle and dogs.
 
 
 ### Skills
